@@ -124,7 +124,7 @@ $ make
 
 NOTE: You could also edit the build.sh script to add support for the new Platforms like Ultra96V2.
 
-***Execute the AI Application on ULTRA96V2***
+**Execute the AI Application on ULTRA96V2**
 
 1.  Boot the Ultra96V2 with the pre-build sd-card image you dowloaded. [For Learning How to Do This, Click HERE!](xxx)
 2.  ```  $ cd /run/media/mmcblk0p1 ```
