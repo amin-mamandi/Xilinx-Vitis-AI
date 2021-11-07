@@ -2,9 +2,8 @@
 
 **This repo will help you to Deploy your Deep Learning Model on Ultra96v2 Board.**
 *************
-First we should know what are the requirements?
 
-
+***Prerequisites***
 
 1. Vitis Core Development Kit 2019.2
 > This could be downloaded from here: [Link to the websire](https://downloadly.ir/software/engineering-specialized/xilinx-vivado-design-suite/)
@@ -16,6 +15,7 @@ First we should know what are the requirements?
 > GitHub Repo Link [2019.2](https://github.com/Xilinx/XRT/tree/2019.2)
 5. Avnet Vitis Platform 2019.2
 > Here is the link to download the zip file [Avnet Website](http://avnet.me/ultra96v2-vitis-2019.2)
+6. Ubuntu OS 18.04
 
 *******
 
