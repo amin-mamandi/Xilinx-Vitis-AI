@@ -1,4 +1,4 @@
-# XILINX_VITIS_AI
+# Xilinx_Vitis_AI
 
 **This repo will help you to Deploy your Deep Learning Model on Ultra96v2 Board.**
 *************
