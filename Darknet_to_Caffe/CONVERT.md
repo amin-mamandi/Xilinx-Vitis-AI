@@ -1,12 +1,11 @@
 
 **How to Convert YOLOv3 to Caffe**
 
-1. First copy the  [ss] (xx )[this python script] (https://github.com/aminmamandi/Xilinx_Vitis_AI/blob/main/Darknet_to_Caffe/convert.py) file to docker container workspace.
+1. First copy the  ![ss](xx )[this python script] (https://github.com/aminmamandi/Xilinx_Vitis_AI/blob/main/Darknet_to_Caffe/convert.py) file to docker container workspace.
 2. Use the following command to make the conversion:
 > First activate the caffe environment inside the Vitis AI docker container (conda activate vitis-ai-caffe)
 ```
 python convert.py darknet/yolov3.cfg darknet/yolov3.weights yolov3.prototxt yolov3.caffemodel
-
 ```
 3. In order to Quantize the caffe model, we need to make some minor changes to the .PROTOTXT file. 
 > Commenting out the first five line and adding an ImageData layer with the calibration images for the train phase as shown in the following fragment:
