@@ -1,7 +1,7 @@
 
 **How to Convert YOLOv3 to Caffe**
 
-1. First copy the [this python script] (https://github.com/aminmamandi/Xilinx_Vitis_AI/blob/main/Darknet_to_Caffe/convert.py) file to docker container workspace.
+1. First copy the  [ss] (xx )[this python script] (https://github.com/aminmamandi/Xilinx_Vitis_AI/blob/main/Darknet_to_Caffe/convert.py) file to docker container workspace.
 2. Use the following command to make the conversion:
 > First activate the caffe environment inside the Vitis AI docker container (conda activate vitis-ai-caffe)
 ```
