@@ -4,7 +4,7 @@
 You can now check the version of your PMIC programming and update to the latest version if
 you want.
 
-You Can Also See [Chapter 14]()
+You Can Also See [Chapter 14](https://github.com/aminmamandi/XILINX_VITIS_AI/blob/main/Update_PMIC_Framework/Ultra96-V2-GSG-v2_0.pdf)
 
 But before, you should be aware of : 
 
