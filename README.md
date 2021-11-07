@@ -126,7 +126,7 @@ NOTE: You could also edit the build.sh script to add support for the new Platfor
 
 **Execute the AI Application on ULTRA96V2**
 
-1.  Boot the Ultra96V2 with the pre-build sd-card image you dowloaded. [For Learning How to Do This, Click HERE!](https://github.com/aminmamandi/XILINX_VITIS_AI/blob/main/SD-CARD-FLASHING.md)
+1.  Boot the Ultra96V2 with the pre-build sd-card image you dowloaded. [For Learning How to Do This, Click HERE!](https://github.com/aminmamandi/XILINX_VITIS_AI/blob/main/SD-Card-Flashing/SD-CARD-FLASHING.md)
 2.  ```  $ cd /run/media/mmcblk0p1 ```
 3.  ```  $ cp dpu.xclbin /usr/lib/.```
 4.  Install the Vitis-AI embedded package:
